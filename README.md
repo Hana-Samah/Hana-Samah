@@ -18,7 +18,7 @@
 
 I'm a **Software Developer in the making** based in 📍 **Pattani, Thailand**, continuously growing my skills and building digital products that are intuitive, useful, and meaningful.
 
-I love working across different areas of development — from mobile apps to web systems — and turning ideas into real, functional experiences that people can actually use.
+I love working across different areas of developmentو from mobile apps to web systemsو and turning ideas into real, functional experiences that people can actually use.
 
 yaml
 currently: Building my skills and expanding my developer toolkit
