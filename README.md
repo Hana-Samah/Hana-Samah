@@ -16,18 +16,15 @@
 <table>
 <td valign="top" width="100%">
 
-I'm an **Aspiring Software Developer** based in 📍 **Pattani, Thailand** with a passion for building digital products that are intuitive, useful, and meaningful.
+I'm a **Software Developer in the making** based in 📍 **Pattani, Thailand**, continuously growing my skills and building digital products that are intuitive, useful, and meaningful.
 
-I enjoy working across different areas of development, from mobile apps to web systems, turning ideas into real, functional products.
-
-
+I love working across different areas of development — from mobile apps to web systems — and turning ideas into real, functional experiences that people can actually use.
 
 yaml
 currently: Building my skills and expanding my developer toolkit
 learning: Advanced React Native, backend architecture, AI-assisted development
 building: Mobile apps, smart tools, and user-focused digital products
 ask_me_about: Mobile apps, UI/UX, React Native, Laravel, system planning
-
 
 </tr>
 </table>
