@@ -41,8 +41,15 @@ Machine learning web application that predicts device prices based on features a
 🔹 **Animal Memory Card Game**
 Interactive matching game designed to improve memory skills using animal-themed cards.
 ---
-🌐 Portfolio Website: https://hanasamah-portfolio-delta.vercel.app/
-💻 GitHub: https://github.com/Hana-Samah
-🔗 LinkedIn: https://www.linkedin.com/in/hana-samah
+## Portfolio
 
+💼 Portfolio Website
+https://hanasamah-portfolio-delta.vercel.app/
+
+💻 GitHub
+https://github.com/Hana-Samah
+
+🔗 LinkedIn
+https://www.linkedin.com/in/hana-samah
+---
 Always learning new technologies and building creative projects.
