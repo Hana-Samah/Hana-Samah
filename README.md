@@ -1,91 +1,36 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:134e4a,50:16a34a,100:4ade80&height=180&section=header&text=Hana%20Samah&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Mobile%20%26%20Web%20Developer%20%E2%80%A2%20React%20Native%20%E2%80%A2%20Laravel%20%E2%80%A2%20Pattani%2C%20Thailand&descAlignY=62&descSize=14&animation=fadeIn" width="100%" />
-
-<br/>
-
-### 👩‍💻 About Me
-
-* **Role:** Mobile & Web Developer
-* **Location:** Pattani, Thailand 🇹🇭
-* **Focus:** Mobile Development, Web Development, UI/UX Design
-* **Looking for:** Entry-level opportunities in software, mobile, or web development
-* **Fun fact:** I enjoy building applications that are simple, useful, and enjoyable to use.
-
----
-
-## 🚀 Skills
-
 <div align="center">
 
-![Java](https://img.shields.io/badge/Java-111827?style=flat-square\&logo=openjdk\&logoColor=4ade80)
-![Python](https://img.shields.io/badge/Python-111827?style=flat-square\&logo=python\&logoColor=4ade80)
-![C#](https://img.shields.io/badge/C%23-111827?style=flat-square\&logo=c-sharp\&logoColor=4ade80)
-![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=flat-square\&logo=javascript\&logoColor=4ade80)
-![PHP](https://img.shields.io/badge/PHP-111827?style=flat-square\&logo=php\&logoColor=4ade80)
-![HTML5](https://img.shields.io/badge/HTML5-111827?style=flat-square\&logo=html5\&logoColor=4ade80)
-![CSS3](https://img.shields.io/badge/CSS3-111827?style=flat-square\&logo=css3\&logoColor=4ade80)
-
-![Laravel](https://img.shields.io/badge/Laravel-111827?style=flat-square\&logo=laravel\&logoColor=4ade80)
-![React Native](https://img.shields.io/badge/React_Native-111827?style=flat-square\&logo=react\&logoColor=4ade80)
-![Expo](https://img.shields.io/badge/Expo-111827?style=flat-square\&logo=expo\&logoColor=4ade80)
-![Flutter](https://img.shields.io/badge/Flutter-111827?style=flat-square\&logo=flutter\&logoColor=4ade80)
-![Unity](https://img.shields.io/badge/Unity-111827?style=flat-square\&logo=unity\&logoColor=4ade80)
-
-![MySQL](https://img.shields.io/badge/MySQL-111827?style=flat-square\&logo=mysql\&logoColor=4ade80)
-![MongoDB](https://img.shields.io/badge/MongoDB-111827?style=flat-square\&logo=mongodb\&logoColor=4ade80)
-![Git](https://img.shields.io/badge/Git-111827?style=flat-square\&logo=git\&logoColor=4ade80)
-![Docker](https://img.shields.io/badge/Docker-111827?style=flat-square\&logo=docker\&logoColor=4ade80)
-![Figma](https://img.shields.io/badge/Figma-111827?style=flat-square\&logo=figma\&logoColor=4ade80)
-![Photoshop](https://img.shields.io/badge/Photoshop-111827?style=flat-square\&logo=adobephotoshop\&logoColor=4ade80)
-![After Effects](https://img.shields.io/badge/After_Effects-111827?style=flat-square\&logo=adobeaftereffects\&logoColor=4ade80)
-![Canva](https://img.shields.io/badge/Canva-111827?style=flat-square\&logo=canva\&logoColor=4ade80)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:EC4899&height=200&section=header&text=Hana%20Samah&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20in%20the%20Making%20✦%20IT%20Student&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
 
 </div>
 
----
+<br/>
 
-## 📂 Featured Projects
+<div align="center">
+
+### 🌸 Hi there, I'm Hana! 👋
+
+</div>
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td valign="top" width="55%">
 
-### 🧩 Linoo — Autism Support App
+I'm an **Information Technology student** based in 📍 **Pattani, Thailand** with a deep passion for building digital products that feel intuitive and meaningful.
 
-A mobile application supporting children with Autism Spectrum Disorder through visual communication tools and structured daily routines.
+From mobile apps to intelligent web systems — I love the whole journey, from wireframe to deployment. Currently sharpening my skills and looking for my first role in software or mobile development.
 
-`React Native` `Expo` `UI/UX Design`
-
-</td>
-<td width="50%" valign="top">
-
-### 🏨 Hotel Management System
-
-Full-stack web system with room booking, guest reviews, admin control, and automated email notifications.
-
-`Laravel` `MySQL` `PHP`
+```yaml
+currently:   Seeking entry-level dev opportunities
+learning:    Advanced React Native & AI/ML integration
+building:    Projects that solve real problems
+ask_me_about: Mobile apps, UI/UX, Laravel, React
+```
 
 </td>
-</tr>
+<td valign="top" width="45%">
 
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 AI Price Prediction App
-
-Machine-learning web app predicting laptop and phone prices based on device specifications and market data.
-
-`Python` `Machine Learning`
-
-</td>
-<td width="50%" valign="top">
-
-### 🐾 Animals Memory Match — Game
-
-Memory card game designed to help children improve concentration and cognitive skills.
-
-Built with **Unity** and **C#** with multiple difficulty levels and randomized card layouts.
-
-`Unity` `C#` `Game Design`
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Hana-Samah&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=c084fc&icon_color=ec4899&text_color=a5b4fc&bg_color=0d1117" width="100%" />
 
 </td>
 </tr>
@@ -93,30 +38,133 @@ Built with **Unity** and **C#** with multiple difficulty levels and randomized c
 
 ---
 
-## 📊 GitHub Activity
+## 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hana-Samah&theme=dark&hide_border=true&background=0d1117&ring=4ade80&fire=16a34a&currStreakLabel=4ade80&sideLabels=4ade80&sideNums=ffffff&dates=6b7280" width="48%" />
+**Languages**
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hana-Samah&layout=compact&theme=dark&hide_border=true&title_color=4ade80&text_color=ffffff&bg_color=0d1117" width="40%" />
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+**Web & Mobile**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+**Databases & Tools**
+
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+
+**Design**
+
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
+![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 </div>
 
 ---
 
-## 🌐 Connect With Me
+## 🚀 Featured Projects
+
+<div align="center">
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🧩 Linoo – Autism Support App
+> *Mobile app for children with ASD*
+
+A compassionate mobile application supporting children with Autism Spectrum Disorder through visual communication tools and structured daily routines.
+
+**Built with:** React Native · UI/UX Design
+
+---
+
+### 🏨 Hotel Management System
+> *Full-stack booking platform*
+
+A complete web system featuring room booking, guest reviews, admin control panels, and automated email notifications.
+
+**Built with:** Laravel · MySQL · PHP
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🤖 AI Price Prediction Web App
+> *Machine learning meets e-commerce*
+
+A smart web application predicting laptop and phone prices based on device specs and market trends using ML models.
+
+**Built with:** Python · Machine Learning · Web
+
+---
+
+### 🐾 Animal Memory Card Game
+> *Educational game for children*
+
+An interactive card-matching game using animal themes to improve memory and concentration skills in a fun way.
+
+**Built with:** JavaScript · HTML · CSS
+
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+## 📊 GitHub Activity
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge\&logo=vercel\&logoColor=4ade80)](https://hanasamah-portfolio-delta.vercel.app)
-
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge\&logo=github\&logoColor=4ade80)](https://github.com/Hana-Samah)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge\&logo=linkedin\&logoColor=4ade80)](https://www.linkedin.com/in/hana-samah)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hana-Samah&theme=tokyonight&hide_border=true&ring=c084fc&fire=ec4899&currStreakLabel=a5b4fc" width="48%" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hana-Samah&layout=compact&theme=tokyonight&hide_border=true&title_color=c084fc&text_color=a5b4fc&bg_color=0d1117" width="38%" />
 
 </div>
 
-<br/>
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4ade80,50:16a34a,100:134e4a&height=100&section=footer" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hana-Samah&bg_color=0d1117&color=c084fc&line=ec4899&point=a5b4fc&area=true&hide_border=true" width="95%" />
+
+</div>
+
+---
+
+## 🌐 Let's Connect
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hanasamah-portfolio-delta.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hana-Samah)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hana-samah)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Hana-Samah&color=c084fc&style=flat-square&label=Profile+Views" />
+
+*"Always learning new technologies and building creative projects."* ✨
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,100:8B5CF6&height=100&section=footer" width="100%" />
+
+</div>
