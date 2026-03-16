@@ -16,9 +16,9 @@
 <tr>
 <td valign="top" width="55%">
 
-I'm an **Information Technology student** based in 📍 **Pattani, Thailand** with a deep passion for building digital products that feel intuitive and meaningful.
+I'm an **Information Technology graduate** based in 📍 **Pattani, Thailand** with a deep passion for building digital products that feel intuitive and meaningful.
 
-From mobile apps to intelligent web systems — I love the whole journey, from wireframe to deployment. Currently sharpening my skills and looking for my first role in software or mobile development.
+From mobile apps to intelligent web systems, I love the whole journey, from wireframe to deployment. Currently sharpening my skills and looking for my first role in software or mobile development.
 
 ```yaml
 currently:   Seeking entry-level dev opportunities
