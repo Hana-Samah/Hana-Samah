@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:EC4899&height=200&section=header&text=Hana%20Samah&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20in%20the%20Making%20✦%20IT%20Student&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:EC4899&height=200&section=header&text=Hana%20Samah&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20in%20the%20Making%20✦%20IT%&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
 
 </div>
 
@@ -15,7 +15,7 @@
 
 <table>
 <tr>
-<td valign="top" width="55%">
+<td valign="top" width="100%">
 
 I'm an **Aspiring Software Developer** based in 📍 **Pattani, Thailand** with a passion for building digital products that are intuitive, useful, and meaningful.
 
@@ -30,11 +30,6 @@ building:    Projects that solve real problems
 ask_me_about: Mobile apps, UI/UX, Laravel, React
 
 
-</td>
-<td valign="top" width="45%">
-
-
-</td>
 </tr>
 </table>
 
