@@ -14,7 +14,6 @@
 </div>
 
 <table>
-<tr>
 <td valign="top" width="100%">
 
 I'm an **Aspiring Software Developer** based in 📍 **Pattani, Thailand** with a passion for building digital products that are intuitive, useful, and meaningful.
@@ -24,10 +23,10 @@ I enjoy working across different areas of development, from mobile apps to web s
 
 
 yaml
-currently:   Seeking entry-level dev opportunities
-learning:    Advanced React Native & AI/ML integration
-building:    Projects that solve real problems
-ask_me_about: Mobile apps, UI/UX, Laravel, React
+currently: Building my skills and expanding my developer toolkit
+learning: Advanced React Native, backend architecture, AI-assisted development
+building: Mobile apps, smart tools, and user-focused digital products
+ask_me_about: Mobile apps, UI/UX, React Native, Laravel, system planning
 
 
 </tr>
@@ -88,7 +87,7 @@ ask_me_about: Mobile apps, UI/UX, Laravel, React
 
 A compassionate mobile application supporting children with Autism Spectrum Disorder through visual communication tools and structured daily routines.
 
-**Built with:** React Native · UI/UX Design
+**Built with:** React Native · Expo · Figma
 
 ---
 
@@ -117,7 +116,7 @@ A smart web application predicting laptop and phone prices based on device specs
 
 An interactive card-matching game using animal themes to improve memory and concentration skills in a fun way.
 
-**Built with:** JavaScript · HTML · CSS
+**Built with:** Unity . C#
 
 </td>
 </tr>
