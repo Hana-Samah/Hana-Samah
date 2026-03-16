@@ -5,11 +5,10 @@
 
 </div>
 
-<br/>
 
 <div align="center">
 
-### 🌸 Hi there, I'm Hana! 👋
+### 🌸 Hi there, I'm Hana! 
 
 </div>
 
@@ -71,7 +70,7 @@ ask_me_about: Mobile apps, UI/UX, React Native, Laravel, system planning
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <div align="center">
 <table>
@@ -79,7 +78,7 @@ ask_me_about: Mobile apps, UI/UX, React Native, Laravel, system planning
 
 <td width="50%" valign="top">
 
-### 🧩 Linoo – Autism Support App
+### Linoo – Autism Support App
 > *Mobile app for children with ASD*
 
 A compassionate mobile application supporting children with Autism Spectrum Disorder through visual communication tools and structured daily routines.
@@ -88,7 +87,7 @@ A compassionate mobile application supporting children with Autism Spectrum Diso
 
 ---
 
-### 🏨 Hotel Management System
+###  Hotel Management System
 > *Full-stack booking platform*
 
 A complete web system featuring room booking, guest reviews, admin control panels, and automated email notifications.
@@ -99,7 +98,7 @@ A complete web system featuring room booking, guest reviews, admin control panel
 
 <td width="50%" valign="top">
 
-### 🤖 AI Price Prediction Web App
+### AI Price Prediction Web App
 > *Machine learning meets e-commerce*
 
 A smart web application predicting laptop and phone prices based on device specs and market trends using ML models.
@@ -108,7 +107,7 @@ A smart web application predicting laptop and phone prices based on device specs
 
 ---
 
-### 🐾 Animal Memory Card Game
+### Animal Memory Card Game
 > *Educational game for children*
 
 An interactive card-matching game using animal themes to improve memory and concentration skills in a fun way.
@@ -122,7 +121,7 @@ An interactive card-matching game using animal themes to improve memory and conc
 
 ---
 
-## 📊 GitHub Activity
+## GitHub Activity
 
 <div align="center">
 
@@ -140,7 +139,7 @@ An interactive card-matching game using animal themes to improve memory and conc
 
 ---
 
-## 🌐 Let's Connect
+## Let's Connect
 
 <div align="center">
 
