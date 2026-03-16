@@ -10,6 +10,7 @@ const hana = {
   looking:   "Entry-level opportunities in software, mobile, or web development",
   funFact:   "I enjoy building applications that are simple, useful, and enjoyable to use 🌿",
 };
+```
 
 ---
 
