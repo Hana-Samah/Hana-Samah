@@ -1,55 +1,170 @@
-# Hi, I'm Hana Samah 
+<div align="center">
 
-🎓 **Information Technology Student**
-📍 Pattani, Thailand
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:EC4899&height=200&section=header&text=Hana%20Samah&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20in%20the%20Making%20✦%20IT%20Student&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
 
-I am passionate about **mobile and web development**, building user-friendly applications and innovative digital solutions.
-My experience includes **React Native, Laravel, AI-based systems, and UI/UX design** through academic and internship projects.
-Currently seeking **entry-level opportunities in software, mobile, or web development.**
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🌸 Hi there, I'm Hana! 👋
+
+</div>
+
+<table>
+<tr>
+<td valign="top" width="55%">
+
+I'm an **Information Technology student** based in 📍 **Pattani, Thailand** with a deep passion for building digital products that feel intuitive and meaningful.
+
+From mobile apps to intelligent web systems — I love the whole journey, from wireframe to deployment. Currently sharpening my skills and looking for my first role in software or mobile development.
+
+```yaml
+currently:   Seeking entry-level dev opportunities
+learning:    Advanced React Native & AI/ML integration
+building:    Projects that solve real problems
+ask_me_about: Mobile apps, UI/UX, Laravel, React
+```
+
+</td>
+<td valign="top" width="45%">
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Hana-Samah&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=c084fc&icon_color=ec4899&text_color=a5b4fc&bg_color=0d1117" width="100%" />
+
+</td>
+</tr>
+</table>
+
 ---
-## Technical Skills
 
-**Programming Languages**
-Java • Python • C#
+## 🛠️ Tech Stack
 
-**Web Development**
-HTML • CSS • JavaScript • PHP • Laravel
+<div align="center">
 
-**Mobile Development**
-React Native • Flutter
+**Languages**
 
-**Databases**
-MySQL • MongoDB
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-**Tools & Technologies**
-Git • GitHub • Docker • XAMPP • Figma • Unity • Visual Studio
+**Web & Mobile**
 
-**Design & Media**
-Photoshop • After Effects • Premiere Pro • Canva
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+**Databases & Tools**
+
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+
+**Design**
+
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
+![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
+</div>
+
 ---
-## Featured Projects
 
-🔹 **Linoo – Autism Support Mobile App**
-A mobile application designed to support children with Autism Spectrum Disorder through visual communication tools and structured routines.
+## 🚀 Featured Projects
 
-🔹 **Hotel Management System**
-Full-stack web system with booking, reviews, admin control, and automated email features.
+<div align="center">
+<table>
+<tr>
 
-🔹 **AI Laptop & Phone Price Prediction Website**
-Machine learning web application that predicts device prices based on features and market data.
+<td width="50%" valign="top">
 
-🔹 **Animal Memory Card Game**
-Interactive matching game designed to improve memory skills using animal-themed cards.
+### 🧩 Linoo – Autism Support App
+> *Mobile app for children with ASD*
+
+A compassionate mobile application supporting children with Autism Spectrum Disorder through visual communication tools and structured daily routines.
+
+**Built with:** React Native · UI/UX Design
+
 ---
-## Portfolio
 
-💼 Portfolio Website
-https://hanasamah-portfolio-delta.vercel.app/
+### 🏨 Hotel Management System
+> *Full-stack booking platform*
 
-💻 GitHub
-https://github.com/Hana-Samah
+A complete web system featuring room booking, guest reviews, admin control panels, and automated email notifications.
 
-🔗 LinkedIn
-https://www.linkedin.com/in/hana-samah
+**Built with:** Laravel · MySQL · PHP
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🤖 AI Price Prediction Web App
+> *Machine learning meets e-commerce*
+
+A smart web application predicting laptop and phone prices based on device specs and market trends using ML models.
+
+**Built with:** Python · Machine Learning · Web
+
 ---
-Always learning new technologies and building creative projects.
+
+### 🐾 Animal Memory Card Game
+> *Educational game for children*
+
+An interactive card-matching game using animal themes to improve memory and concentration skills in a fun way.
+
+**Built with:** JavaScript · HTML · CSS
+
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hana-Samah&theme=tokyonight&hide_border=true&ring=c084fc&fire=ec4899&currStreakLabel=a5b4fc" width="48%" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hana-Samah&layout=compact&theme=tokyonight&hide_border=true&title_color=c084fc&text_color=a5b4fc&bg_color=0d1117" width="38%" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hana-Samah&bg_color=0d1117&color=c084fc&line=ec4899&point=a5b4fc&area=true&hide_border=true" width="95%" />
+
+</div>
+
+---
+
+## 🌐 Let's Connect
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hanasamah-portfolio-delta.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hana-Samah)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hana-samah)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Hana-Samah&color=c084fc&style=flat-square&label=Profile+Views" />
+
+*"Always learning new technologies and building creative projects."* ✨
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,100:8B5CF6&height=100&section=footer" width="100%" />
+
+</div>
