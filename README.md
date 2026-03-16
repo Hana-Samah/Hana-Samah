@@ -1,16 +1,15 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:134e4a,50:16a34a,100:4ade80&height=180&section=header&text=Hana%20Samah&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=IT%20Student%20%E2%80%A2%20Mobile%20%26%20Web%20Developer%20%E2%80%A2%20Pattani%2C%20Thailand&descAlignY=62&descSize=14&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:134e4a,50:16a34a,100:4ade80&height=180&section=header&text=Hana%20Samah&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Mobile%20%26%20Web%20Developer%20%E2%80%A2%20React%20Native%20%E2%80%A2%20Laravel%20%E2%80%A2%20Pattani%2C%20Thailand&descAlignY=62&descSize=14&animation=fadeIn" width="100%" />
 
 <br/>
 
 ```ts
 const hana = {
-  role:      "IT Student → Junior Developer",
+  role:      "Mobile & Web Developer",
   location:  "Pattani, Thailand 🇹🇭",
-  focus:     ["Mobile Development", "Web Development", "UI/UX"],
-  looking:   "Entry-level opportunities in software / mobile / web",
-  funFact:   "I build things that feel good to use 🌿",
+  focus:     ["Mobile Development", "Web Development", "UI/UX Design"],
+  looking:   "Entry-level opportunities in software, mobile, or web development",
+  funFact:   "I enjoy building applications that are simple, useful, and enjoyable to use 🌿",
 };
-```
 
 ---
 
